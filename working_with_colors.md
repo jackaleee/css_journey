@@ -19,5 +19,5 @@ __Цвета делятся на:__
 `linear-gradient(direction, color1, color2,...)` из интересного, это можно самому выбирать на каком проценте будет переход градиента в другой цвет вот таким образом `linear-gradient(to right, red 20%, blue 60$)`. По дефолку расстояния идут 0, 50, 100%. Так же по дефолту derection = 180deg.
 Теперь кратко про Radial. `radial-gradient(shape size at position, color1, color2)`. Изначально градиент идет как circle от центра к краям, но можно поменять shape и at position, например radia-`gradient(ellipse 100px at left top, red, blue)` 
 
-##Box Shadow
+## Box Shadow
 `box-shadow: offsetX, offsetY, blurRadius, spreadRasius, color`
