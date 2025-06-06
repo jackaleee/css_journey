@@ -24,4 +24,4 @@ src: url("path/to/font.woff2") format("woff2");
 
 ## External Fonts
 
-Буквально внешние шрифты, которые можно подгрузить с сервака или локала. Например с [Google Fonts](https://fonts.google.com/).
+Буквально внешние шрифты, которые можно подгрузить с сервака или локала. Например с [Google Fonts](https://fonts.google.com/) через <link> или @import
