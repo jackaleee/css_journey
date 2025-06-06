@@ -21,3 +21,7 @@ src: url("path/to/font.woff2") format("woff2");
 }`
 
 Можно добавлять несколько `scr` в разных форматах. 
+
+## External Fonts
+
+Буквально внешние шрифты, которые можно подгрузить с сервака или локала. Например с [Google Fonts](https://fonts.google.com/).
