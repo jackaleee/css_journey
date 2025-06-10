@@ -30,3 +30,8 @@ src: url("path/to/font.woff2") format("woff2");
 
 `text-shadow:` свойство создает тень к тектовым элементам. Тут все просто как и `box-shadow:` x y blur color; 
 Так же можно добавлять сразу несколько теней через запятую. 
+
+## Дополнительно 
+
+`text-transform: ` - можно сделать из текста uppercase, lowercase, capitalize;
+`text-indent: ` - сделать отступ перед первой строкой текста абзаца;
